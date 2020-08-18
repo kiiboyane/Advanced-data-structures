@@ -1,10 +1,4 @@
-<<<<<<< HEAD:RMQ/cartesian.md
-## Turning a table to min heap 
 
-> 8 | 9 | 6 | 2 | 4 | 5 | 3 | 7 | 
-
-![Min heap ](3DTest.png) 
-=======
 ## The Heap Property 
 
 ### min heap 
@@ -38,4 +32,3 @@ it has to be check the following three conditions :
 > 8 | 9 | 6 | 2 | 4 | 5 | 3 | 7 | 
 
 ![Cartesian Tree](https://github.com/kiiboyane/Advanced-data-structures/blob/master/RMQ/min_heap.png) 
->>>>>>> 2573076eaacb64d31ddcaebb415f9934c29f544e:RMQ/min_heap.md

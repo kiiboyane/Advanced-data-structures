@@ -12,18 +12,18 @@ a heap is a specialized tree-based data structure which is essentially an almost
 ## in-order tree Traversal
 
 In-order (LNR) : 
-> Left tree.
-> current Node.
-> Right tree.
+1. Left tree.
+2. current Node.
+3. Right tree.
 
 
 ## Cartesian Tree 
 
 Cartesian tree is a binary tree derived from a sequence of numbers. 
 it has to be check the following three conditions : 
-> It is a min heap 
-> There is a node for each number in the sequence . 
-> A symmetric (in-order) traversal of the tree results in the original sequence.
+- It is a min heap 
+- There is a node for each number in the sequence . 
+- A symmetric (in-order) traversal of the tree results in the original sequence.
 
 
 ### Turning an array to a Cartesian Tree  

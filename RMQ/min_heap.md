@@ -1,12 +1,12 @@
 ## The Heap Property 
 
-# min heap 
+### min heap 
 the parent of any non-root node has a smaller value than the node itself meaning the smallest value is in the root.  
 
-# max heap
+### max heap
 the parent of any non-root node has a greater value than the node itself meaning the greatest value is in the root.
 
-# What is a Heap ? 
+### What is a Heap ? 
 a heap is a specialized tree-based data structure which is essentially an almost complete tree that satisfies the **heap property**.
 
 ## in-order tree Traversal
@@ -26,7 +26,7 @@ it has to be check the following three conditions :
 > A symmetric (in-order) traversal of the tree results in the original sequence.
 
 
-# Turning an array to a Cartesian Tree  
+### Turning an array to a Cartesian Tree  
 
 > 8 | 9 | 6 | 2 | 4 | 5 | 3 | 7 | 
 

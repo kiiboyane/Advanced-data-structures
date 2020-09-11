@@ -33,4 +33,4 @@ it has to be check the following three conditions :
 
 ![Cartesian Tree](https://github.com/kiiboyane/Advanced-data-structures/blob/master/RMQ/min_heap.png) 
 
-> An LCA in the cartesian tree is equivilent to the RMQ in the array . 
+> An LCA in the cartesian tree is equivalent to the RMQ in the array . 

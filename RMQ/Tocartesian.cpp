@@ -64,4 +64,3 @@ int main(){
   traverse(original);
 }
 
- st

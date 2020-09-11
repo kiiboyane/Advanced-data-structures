@@ -29,6 +29,8 @@ it has to be check the following three conditions :
 
 ### Turning an array to a Cartesian Tree  
 
-> 8 | 9 | 6 | 2 | 4 | 5 | 3 | 7 | 
+ 8 | 9 | 6 | 2 | 4 | 5 | 3 | 7 | 
 
 ![Cartesian Tree](https://github.com/kiiboyane/Advanced-data-structures/blob/master/RMQ/min_heap.png) 
+
+> An LCA in the cartesian tree is equivilent to the RMQ in the array . 
